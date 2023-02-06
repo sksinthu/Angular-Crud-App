@@ -1,0 +1,43 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "firstname": "Kirusnavelu",
+      "lastname": "Sinthujan",
+      "email": "sksinthu15@gmail.com",
+      "mobile": "0750662237",
+      "salary": "20,000/="
+    },
+    {
+      "id": 2,
+      "firstname": "dfdfd",
+      "lastname": null,
+      "email": null,
+      "mobile": null,
+      "salary": "2333"
+    }
+  ],
+  "register": [
+    {
+      "fullname": "",
+      "mobile": "",
+      "email": "",
+      "password": "",
+      "id": 3
+    },
+    {
+      "fullname": "sinthujan",
+      "mobile": 75234567890,
+      "email": "sksinthu15@gmail.com",
+      "password": "sinthu234",
+      "id": 6
+    },
+    {
+      "fullname": "vbc",
+      "mobile": 750662237,
+      "email": "sksinthu15@gmail.com",
+      "password": "sdddd",
+      "id": 7
+    }
+  ]
+}
