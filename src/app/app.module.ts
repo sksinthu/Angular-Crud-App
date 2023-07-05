@@ -5,15 +5,21 @@ import { BrowserModule } from '@angular/platform-browser';
 import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
 import { HttpClientModule } from '@angular/common/http';
-import { EmployedashboardComponent } from './employedashboard/employedashboard.component';
 import { LoginComponent } from './login/login.component';
-import { RegisterComponent } from './register/register.component'
+import { RegisterComponent } from './register/register.component';
+import { DashboardComponent } from './dashboard/dashboard.component';
+import { HeaderComponent } from './header/header.component';
+import { HomeComponent } from './home/home.component';
+import { ErrorComponent } from './error/error.component';
 @NgModule({
   declarations: [
     AppComponent,
-    EmployedashboardComponent,
     LoginComponent,
     RegisterComponent,
+    DashboardComponent,
+    HeaderComponent,
+    HomeComponent,
+    ErrorComponent,
   ],
   imports: [
     BrowserModule,

@@ -5,16 +5,8 @@
       "firstname": "Kirusnavelu",
       "lastname": "Sinthujan",
       "email": "sksinthu15@gmail.com",
-      "mobile": "0750662237",
-      "salary": "20,000/="
-    },
-    {
-      "id": 2,
-      "firstname": "dfdfd",
-      "lastname": null,
-      "email": null,
-      "mobile": null,
-      "salary": "2333"
+      "mobile": "07501234567",
+      "salary": "20000"
     }
   ],
   "register": [
@@ -38,6 +30,13 @@
       "email": "sksinthu15@gmail.com",
       "password": "sdddd",
       "id": 7
+    },
+    {
+      "fullname": "sinthu",
+      "mobile": 1234567890,
+      "email": "sk@gmail.com",
+      "password": "123456789",
+      "id": 8
     }
   ]
 }
